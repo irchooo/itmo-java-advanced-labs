@@ -1,4 +1,4 @@
-package ru.itmo.JavaAdvanced.dto;
+package ru.itmo.JavaAdvanced.lesson1.dto;
 
 import lombok.Data;
 
