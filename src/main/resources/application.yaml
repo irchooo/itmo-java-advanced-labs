@@ -1,0 +1,4 @@
+app:
+  cache:
+    max-size: 13
+  exit-command: "exit"
